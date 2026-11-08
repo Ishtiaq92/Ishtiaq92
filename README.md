@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ishtiaq Ahmed
+# Hi 👋, I'm Ishtiaq Zaman
 
 A passionate Frontend Web Developer looking for new opportunities.
 
