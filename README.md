@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Ishtiaq Ahmed
 
-<!--
-**Ishtiaq92/Ishtiaq92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Frontend Web Developer looking for new opportunities.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently learning **Proteus, Multisim, and MATLAB**
+- 💬 Ask me about **React, Vue, and GSAP**
+- 📫 How to reach me **ishtiaqzaman20@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats & Skills
+
+<p align="left">
+  <img src="https://vercel.app" alt="Ishtiaq92's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://vercel.app" alt="Ishtiaq92's Top Languages" />
+</p>
